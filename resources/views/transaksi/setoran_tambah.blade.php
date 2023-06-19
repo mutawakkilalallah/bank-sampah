@@ -12,7 +12,7 @@
                     <select class="form-control select2" style="width: 100%;">
                         <option value="" selected>Cari Nasabah ..</option>
                         @for ($i = 0; $i < 10; $i++)
-                            <option value="1">Alfi Nurindiana - 2307119087</option>
+                            <option value="1">Siti Aisyah - 2307119087</option>
                         @endfor
                     </select>
                 </div>

@@ -159,7 +159,7 @@
                             @for ($i = 0; $i < 5; $i++)
                                 <tr>
                                     <td>{{ $i + 1 }}</td>
-                                    <td>Alfi Nurindiana</td>
+                                    <td>Siti Aisyah</td>
                                     <td>18 Kg</td>
                                     <td>Rp. 175.0000 </td>
                                 </tr>
@@ -183,7 +183,7 @@
                             @for ($i = 0; $i < 5; $i++)
                                 <tr>
                                     <td>{{ $i + 1 }}</td>
-                                    <td>Alfi Nurindiana</td>
+                                    <td>Siti Aisyah</td>
                                     <td>Rp. 175.0000 </td>
                                     <td>
                                         @if ($i % 2 == 0)

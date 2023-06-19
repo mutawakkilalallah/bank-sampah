@@ -9,14 +9,14 @@
         <li class="nav-item dropdown user-menu">
             <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">
                 <img src="/user.png" class="user-image img-circle elevation-2" alt="User Image">
-                <span class="d-none d-md-inline">Alfi Nurindiana</span>
+                <span class="d-none d-md-inline">Siti Aisyah</span>
             </a>
             <ul class="dropdown-menu dropdown-menu-lg dropdown-menu-right">
                 <li class="user-header bg-teal">
                     <img src="/user.png" class="img-circle elevation-2" alt="User Image">
 
                     <p>
-                        Alfi Nurindiana
+                        Siti Aisyah
                         <small>202307001</small>
                     </p>
                 </li>

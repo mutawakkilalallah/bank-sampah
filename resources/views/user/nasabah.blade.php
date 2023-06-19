@@ -20,8 +20,8 @@
                     @for ($i = 0; $i < 10; $i++)
                         <tr>
                             <td>{{ $i + 1 }}</td>
-                            <td>Alfi Nurindiana</td>
-                            <td>@aldiana</td>
+                            <td>Siti Aisyah</td>
+                            <td>@aisyah</td>
                             <td>alfi@gmail.com</td>
                             <td>62812333444555</td>
                             <td>Rp. 35.000</td>

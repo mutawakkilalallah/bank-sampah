@@ -17,8 +17,8 @@
                     @for ($i = 0; $i < 10; $i++)
                         <tr>
                             <td>{{ $i + 1 }}</td>
-                            <td>Alfi Nurindiana</td>
-                            <td>@aldiana</td>
+                            <td>Siti Aisyah</td>
+                            <td>@aisyah</td>
                             <td>
                                 <a href="/user/admin/edit" class="btn btn-pending btn-sm btn-warning"><i
                                         class="fas fa-pen"></i>

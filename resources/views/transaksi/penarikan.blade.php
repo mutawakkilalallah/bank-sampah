@@ -55,7 +55,7 @@
                             <td>{{ $i + 1 }}</td>
                             <td>18 Juni 2023</td>
                             {{-- admin only --}}
-                            <td>Alfi Nurindiana</td>
+                            <td>Siti Aisyah</td>
                             {{-- admin only --}}
                             <td>Tarik Tunai</td>
                             <td>Rp. 35.000</td>
