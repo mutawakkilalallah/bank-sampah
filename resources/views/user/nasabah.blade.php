@@ -22,7 +22,7 @@
                             <td>{{ $i + 1 }}</td>
                             <td>Siti Aisyah</td>
                             <td>@aisyah</td>
-                            <td>alfi@gmail.com</td>
+                            <td>aisyah@gmail.com</td>
                             <td>62812333444555</td>
                             <td>Rp. 35.000</td>
                             <td>
