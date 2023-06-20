@@ -8,10 +8,10 @@
                 <thead>
                     <tr>
                         <th>No</th>
+                        <th>No Rekening</th>
                         <th>Nama Nasabah</th>
+                        <th>Jenis</th>
                         <th>Username</th>
-                        <th>Email</th>
-                        <th>No HP</th>
                         <th>Saldo</th>
                         <th>Action</th>
                     </tr>
@@ -20,11 +20,11 @@
                     @for ($i = 0; $i < 10; $i++)
                         <tr>
                             <td>{{ $i + 1 }}</td>
+                            <td>2023060111005</td>
                             <td>Siti Aisyah</td>
+                            <td>Perorangan</td>
                             <td>@aisyah</td>
-                            <td>aisyah@gmail.com</td>
-                            <td>62812333444555</td>
-                            <td>Rp. 35.000</td>
+                            <td>Rp. 500.000</td>
                             <td>
                                 <a href="/user/nasabah/detail" class="btn btn-pending btn-sm btn-info"><i
                                         class="fas fa-eye"></i>

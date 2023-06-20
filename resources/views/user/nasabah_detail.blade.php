@@ -20,6 +20,14 @@
                     <input type="text" readonly="readonly" class="form-control-plaintext" id="username">
                 </div>
                 <div class="form-group">
+                    <label for="jenis">Jenis</label>
+                    <input type="text" readonly="readonly" class="form-control-plaintext" id="jenis">
+                </div>
+                <div class="form-group">
+                    <label for="rt">RT</label>
+                    <input type="text" readonly="readonly" class="form-control-plaintext" id="rt">
+                </div>
+                <div class="form-group">
                     <label for="email">Email</label>
                     <input type="text" readonly="readonly" class="form-control-plaintext" id="email">
                 </div>

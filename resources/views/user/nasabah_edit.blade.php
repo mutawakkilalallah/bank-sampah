@@ -20,6 +20,18 @@
                     <input type="text" class="form-control" id="username" disabled readonly>
                 </div>
                 <div class="form-group">
+                    <label>Pilih Jenis Nasabah</label>
+                    <select class="form-control">
+                        <option value="" selected>-- Pilih Jenis Nasabah --</option>
+                        <option value="1">Perorangan</option>
+                        <option value="2">Kelompok</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="rt">RT</label>
+                    <input type="Number" class="form-control" id="rt">
+                </div>
+                <div class="form-group">
                     <label for="email">Email</label>
                     <input type="text" class="form-control" id="email">
                 </div>
